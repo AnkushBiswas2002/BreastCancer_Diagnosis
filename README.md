@@ -93,10 +93,10 @@ jupyter notebook BreastCancer_Diagnosis.ipynb
 ## 📈 Example Output (Replace with your actual results)
 
 ```
-Accuracy : 0.XX
-Precision: 0.XX
-Recall   : 0.XX
-F1-score : 0.XX
+Accuracy : 0.9736842105263158
+Precision: 0.9761904761904762
+Recall   : 0.9534883720930233
+F1-score : 0.9647058823529412
 ```
 
 ---
