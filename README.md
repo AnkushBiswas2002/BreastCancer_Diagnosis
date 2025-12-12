@@ -90,7 +90,7 @@ jupyter notebook BreastCancer_Diagnosis.ipynb
 
 ---
 
-## 📈 Example Output (Replace with your actual results)
+## 📈 Output
 
 ```
 Accuracy : 0.9736842105263158
